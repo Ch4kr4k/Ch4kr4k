@@ -26,7 +26,7 @@
 <p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.kali.org/"><img src="./pngwing.com.png" alt="kali" width="40" height="40"/></a></a> <a href="https://www.parrotsec.org/"><img src="https://community.parrotsec.org/uploads/default/original/2X/b/bc594f96ebf7e51d0ef80e2b0c4e588b66347b5f.png" alt="parrot" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BL4CK-R34P3R&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BL4CK-R34P3R" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BL4CK-R34P3R&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ch4kr4k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ch4kr4k&show_icons=true&locale=en&theme=tokyonight" alt="BL4CK-R34P3R" /></p>
 
