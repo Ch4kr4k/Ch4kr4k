@@ -3,15 +3,15 @@
 <h3 align="center">🐧CSE:NIT-an🐧</h3>
 <img align="right" alt="Coding" width="400" src="./icegif-2013.gif">
 
-- 🐧 I’m currently working on **Nothing**
+- 🐧 I’m currently working at **Denso International India Ltd.** as R&D GraduateEngineerTrainee
 
 - 🐧 I’m currently learning **Nothing**
 
-- 💬 Ask me about **Nothing , Nothing**
+- 💬 Ask me **Nothing , Iam N00b**
 
 - 🐧 How to reach me **uzumakichakrak@gmail.com**
 
-- 🐧 Fun fact **Nothing**
+- 🐧 Fun fact **Soon ill become R&D Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
