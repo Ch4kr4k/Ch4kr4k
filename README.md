@@ -13,6 +13,7 @@
 
 - 🐧 Fun fact **...**
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Chuck68853238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
@@ -30,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ch4kr4k&show_icons=true&locale=en&theme=tokyonight" alt="Ch4kr4k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4kr4k&&theme=tokyonight" alt="o_0" /></p>
+-->
