@@ -3,15 +3,7 @@
 <h3 align="center">🐧CSE:NIT-an🐧</h3>
 <img align="right" alt="Coding" width="400" src="./icegif-2013.gif">
 
-- 🐧 I’m currently working at **...**
-
-- 🐧 I’m currently learning **...**
-
-- 💬 Ask me **...**
-
-- 🐧 How to reach me **...**
-
-- 🐧 Fun fact **...**
+- 🐧 I’m currently working at **DIIN (Embedded Software Engineer)**
 
 <!--
 <h3 align="left">Connect with me:</h3>
